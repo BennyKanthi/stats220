@@ -17,7 +17,7 @@ I love listening to music so here are my top 3 artists:
 2. *Lil Uzi Vert*
 3. *TWICE*
 
-Here is my current [favourite song]([https://pages.github.com/](https://www.youtube.com/watch?v=YG3EhWlBaoI)https://www.youtube.com/watch?v=YG3EhWlBaoI).
+Here is my current [favourite song](https://www.youtube.com/watch?v=YG3EhWlBaoI)https://www.youtube.com/watch?v=YG3EhWlBaoI).
   
 
 
