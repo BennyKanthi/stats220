@@ -1,15 +1,23 @@
 # STATS220
-## *What this project covers:*
+## About the Project:
 This is my repo for **STATS 220**.
 
 I will be using this to demonstrate my learning accumalted within **STATS 220**.
 
-## *About me:*
+The content within the project includes:
+- *Use of R markdown, HTML, CSS*
+- *Meme creation*
+- *GIF creation*
+
+## About me:
 I am currently a student studying at UOA majoring in Computer Science (2nd Year).
 
-### Interests:
-- Music
-- Video-Games
+I love listening to music so here are my top 3 artists:
+1. *Playboi Carti*
+2. *Lil Uzi Vert*
+3. *TWICE*
+
+Here is my current [favourite song]([https://pages.github.com/](https://www.youtube.com/watch?v=YG3EhWlBaoI)https://www.youtube.com/watch?v=YG3EhWlBaoI).
   
 
 
