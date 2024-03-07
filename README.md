@@ -17,7 +17,10 @@ I love listening to music so here are my top 3 artists:
 2. *Destroy lonely*
 3. *TWICE*
 
-Here is my current [favourite song](https://www.youtube.com/watch?v=YG3EhWlBaoI).
+Here are some songs by them:
+- [2024 by Playboi Carti](https://www.youtube.com/watch?v=YG3EhWlBaoI).
+- [NOSTYLIST by Destroy Lonely](https://www.youtube.com/watch?v=QTmRmPDS9tw).
+- [TT by TWICE](https://www.youtube.com/watch?v=ePpPVE-GGJw&list=PLwZnpCDNHgWCXrXI1UG6zoD8a-FUb7x1l&index=3).
   
 
 
