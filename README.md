@@ -13,9 +13,9 @@ Some of the content within the course includes:
 I am currently a student studying a Bachelor of Science at UOA majoring in Computer Science (2nd Year).
 
 I love listening to music so here are a few of my favourite songs:
-1. [2024 by Playboi Carti](https://www.youtube.com/watch?v=YG3EhWlBaoI).
-2. [NOSTYLIST by Destroy Lonely](https://www.youtube.com/watch?v=QTmRmPDS9tw).
-3. [TT by TWICE](https://www.youtube.com/watch?v=ePpPVE-GGJw&list=PLwZnpCDNHgWCXrXI1UG6zoD8a-FUb7x1l&index=3).
+1. [2024 by Playboi Carti](https://www.youtube.com/watch?v=YG3EhWlBaoI)
+2. [NOSTYLIST by Destroy Lonely](https://www.youtube.com/watch?v=QTmRmPDS9tw)
+3. [TT by TWICE](https://www.youtube.com/watch?v=ePpPVE-GGJw&list=PLwZnpCDNHgWCXrXI1UG6zoD8a-FUb7x1l&index=3)
   
 
 
