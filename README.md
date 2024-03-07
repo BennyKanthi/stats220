@@ -14,7 +14,7 @@ I am currently a student studying at UOA majoring in Computer Science (2nd Year)
 
 I love listening to music so here are my top 3 artists:
 1. *Playboi Carti*
-2. *Lil Uzi Vert*
+2. *Destroy lonely*
 3. *TWICE*
 
 Here is my current [favourite song](https://www.youtube.com/watch?v=YG3EhWlBaoI).
