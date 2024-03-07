@@ -2,15 +2,15 @@
 ## About the Project:
 This is my repo for **STATS 220**.
 
-I will be using this to demonstrate my learning accumalted within **STATS 220**.
+I will be using this to demonstrate my learning accumalted within **STATS 220**. The purpose for this README.md file was to practice use of markdown syntax in **Project 1: Creating HTML by combining modern technologies**.
 
-The content within the project includes:
+Some of the content within the course includes:
 - *Use of R markdown, HTML, CSS*
-- *Meme creation*
-- *GIF creation*
+- *Visual-based communications*
+- *Web-based dynamic reporting systems*
 
 ## About me:
-I am currently a student studying at UOA majoring in Computer Science (2nd Year).
+I am currently a student studying a Bachelor of Science at UOA majoring in Computer Science (2nd Year).
 
 I love listening to music so here are my top 3 artists:
 1. *Playboi Carti*
